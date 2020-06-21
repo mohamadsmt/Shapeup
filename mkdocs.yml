@@ -7,10 +7,6 @@ site_author: محمد تکلو
 site_description: >-
   راهکاری برای مدیریت و طراحی محصول نرم افزاری
 
-# # Repository
-# repo_name: squidfunk/mkdocs-material
-# repo_url: https://github.com/squidfunk/mkdocs-material
-# edit_uri: ""
 
 # Copyright
 copyright: تمامی حقوق متعلق است به محمد تکلو
@@ -116,6 +112,7 @@ nav:
     - مقدمه نویسنده: 'abstraction/abstraction.md'
     - درد بزرگ شدن: 'abstraction/growingpains.md'
     - چرخه‌های 6 هفته ای: 'abstraction/sixweekcycles.md'
+    - شکل دادن به کار: 'abstraction/shapingthework.md'
 - بخش اول:
   - شکل دادن: 'partone/shaping.md'
 - بخش دوم:
