@@ -1,0 +1,130 @@
+
+
+# Project information
+site_name: Shape Up - راهکاری برای مدیریت و طراحی محصول نرم افزاری
+site_url: http://shapeupbook.ir
+site_author: محمد تکلو
+site_description: >-
+  راهکاری برای مدیریت و طراحی محصول نرم افزاری
+
+# # Repository
+# repo_name: squidfunk/mkdocs-material
+# repo_url: https://github.com/squidfunk/mkdocs-material
+# edit_uri: ""
+
+# Copyright
+copyright: تمامی حقوق متعلق است به محمد تکلو
+
+# Configuration
+theme:
+  name: 'material'
+
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: true
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: 'fa'
+  direction: 'rtl'
+  # features:
+  #   - tabs
+    #- instant
+  palette:
+    scheme: default
+    primary: black
+    accent: white
+  font:
+    text: false
+    
+  icon:
+    logo: logo
+  favicon: assets/favicon.png
+
+# Plugins
+plugins:
+  - search:
+      prebuild_index: true
+      separator: '[\s\-\.]+'
+      lang:
+        - ar
+        - en
+  - minify:
+      minify_html: true
+extra_css:
+  - 'stylesheets/extra.css'
+# Customization
+extra:
+  social:
+    - icon: fontawesome/regular/envelope
+      link: mailto:smt.takalloo@gmail.com
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/SmtTakalloo
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/mohamad-takalloo-a84764134/
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/takalloo.mohamad
+
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.attr_list
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  # - pymdownx.highlight:
+  #     linenums_style: pymdownx-inline
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Page tree
+nav:
+- صفحه اصلی: 'index.md'
+- مقدمه:
+    - مقدمه مترجم: 'abstraction/translateabstract.md'
+    - مقدمه نویسنده: 'abstraction/abstraction.md'
+    - درد بزرگ شدن: 'abstraction/growingpains.md'
+    - چرخه‌های 6 هفته ای: 'abstraction/sixweekcycles.md'
+- بخش اول:
+  - شکل دادن: 'partone/shaping.md'
+- بخش دوم:
+  - شرط بستن: 'parttwo/betting.md'
+- بخش سوم:
+  - ساختن: 'partthree/building.md'
+
+# Google Analytics
+google_analytics:
+  - UA-136456575-3
+  - auto
+
