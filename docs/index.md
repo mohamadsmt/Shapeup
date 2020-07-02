@@ -69,4 +69,4 @@ transparent 75%, transparent);
 </style>
 میزان پیشرفت ترجمه:
 
- <progress id="progressbar" value="15" max="95"></progress><div class="progress-value"></div>
+ <progress id="progressbar" value="20" max="95"></progress><div class="progress-value"></div>
