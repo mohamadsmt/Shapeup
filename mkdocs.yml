@@ -43,12 +43,12 @@ theme:
 
 # Plugins
 plugins:
-  - search:
-      prebuild_index: true
-      separator: '[\s\-\.]+'
-      lang:
-        - ar
-        - en
+  # - search:
+  #     prebuild_index: true
+  #     separator: '[\s\-\.]+'
+  #     lang:
+  #       - ar
+  #       - en
   - minify:
       minify_html: true
 extra_css:
@@ -108,16 +108,16 @@ markdown_extensions:
 nav:
 - صفحه اصلی: 'index.md'
 - مقدمه:
-    - مقدمه مترجم: 'abstraction/translateabstract.md'
+    - مقدمه مترجم: 'abstraction/translate_abstract.md'
     - مقدمه نویسنده: 'abstraction/abstraction.md'
-    - درد بزرگ شدن: 'abstraction/growingpains.md'
-    - چرخه‌های 6 هفته ای: 'abstraction/sixweekcycles.md'
-    - شکل دادن به کار: 'abstraction/shapingthework.md'
-    - تیم ها را مسئولیت پذیر کنید: 'abstraction/makingteamsresponsible.md'
-    - هدف گیری ریسک : 'abstraction/targetingrisk.md'
-    - چگونه این کتاب سازمان یافت: 'abstraction/howthisbookisorganized.md'
-- بخش اول:
-  - شکل دادن: 'partone/shaping.md'
+    - درد بزرگ شدن: 'abstraction/growing_pains.md'
+    - چرخه‌های 6 هفته ای: 'abstraction/six_week_cycles.md'
+    - شکل دادن به کار: 'abstraction/shaping_the_work.md'
+    - تیم ها را مسئولیت پذیر کنید: 'abstraction/making_teams_responsible.md'
+    - هدف گیری ریسک : 'abstraction/targeting_risk.md'
+    - چگونه این کتاب سازمان یافت: 'abstraction/how_this_book_is_organized.md'
+- بخش اول - شیپینگ:
+  - قواعد شیپینگ: 'partone/principles_of_shaping.md'
 - بخش دوم:
   - شرط بستن: 'parttwo/betting.md'
 - بخش سوم:
