@@ -3,8 +3,8 @@
     src= 
 '../img/1.jpeg'
     alt="level of abstraction" 
-    align="middle">
-    <figcaption>
+    align="middle"/>
+    <figcaption style="margin-top:5px;text-align:center">
     کار شیپ شده چیزی میان کار مفهومی و کار صریح است
     </figcaption>
          
@@ -57,7 +57,7 @@
 '../img/2.png'
     alt="calender" 
     align="middle">
-    <figcaption>
+    <figcaption style="margin-top:5px;text-align:center">
     اسکچ زمخت از مفهوم جدول نقطه ای
     </figcaption>
          
@@ -72,7 +72,7 @@
 '../img/3.png'
     alt="Final Work" 
     align="middle">
-    <figcaption>
+    <figcaption style="margin-top:5px;text-align:center">
     اسکرین شاتی از جدول نقطه ای زمانی که راه اندازی شد.
     </figcaption>
          
