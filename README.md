@@ -5,4 +5,6 @@
 
 **مترجم : [محمد تکلو](https://profile.ir/takalloo.mohamad/about)**
 
+**[سایت ترجمه کتاب](https://shapeupbook.ir)**
+
 **[سایت اصلی کتاب](https://basecamp.com/shapeup)**
