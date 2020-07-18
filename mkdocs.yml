@@ -118,6 +118,7 @@ nav:
     - چگونه این کتاب سازمان یافت: 'abstraction/how_this_book_is_organized.md'
 - بخش اول - شیپینگ:
   - قواعد شیپینگ: 'partone/principles_of_shaping.md'
+  - مشخص کردن چهارچوب‌ها: 'partone/set_boundaries.md'
 - بخش دوم:
   - شرط بستن: 'parttwo/betting.md'
 - بخش سوم:
