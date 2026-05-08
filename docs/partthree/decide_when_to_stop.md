@@ -1,6 +1,6 @@
 # تصمیم گرفتن درباره زمان توقف
 
-> فصل ۱۴ از کتاب شیپ‌آپ  
+> فصل ۱۴ از کتاب شیپ‌آپ
 > منبع: [Shape Up - Decide When to Stop](https://basecamp.com/shapeup/3.5-chapter-14)
 
 ![کارتون فصل تصمیم توقف](../assets/images/shapeup/3.5-chapter-14/intro_cartoon.png)

@@ -1,6 +1,6 @@
 # ریسک‌ها و حفره‌های خرگوش
 
-> فصل ۵ از کتاب شیپ‌آپ  
+> فصل ۵ از کتاب شیپ‌آپ
 > منبع: [Shape Up - Risks and Rabbit Holes](https://basecamp.com/shapeup/1.4-chapter-05)
 
 ![کارتون فصل ریسک‌ها](../assets/images/shapeup/1.4-chapter-05/intro_cartoon.png)

@@ -1,6 +1,6 @@
 # واگذاری مسئولیت
 
-> فصل ۱۰ از کتاب شیپ‌آپ  
+> فصل ۱۰ از کتاب شیپ‌آپ
 > منبع: [Shape Up - Hand Over Responsibility](https://basecamp.com/shapeup/3.1-chapter-10)
 
 ![کارتون فصل واگذاری مسئولیت](../assets/images/shapeup/3.1-chapter-10/intro_cartoon.jpg)

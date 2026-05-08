@@ -1,6 +1,6 @@
 # نقشه‌برداری از اسکوپ‌ها
 
-> فصل ۱۲ از کتاب شیپ‌آپ  
+> فصل ۱۲ از کتاب شیپ‌آپ
 > منبع: [Shape Up - Map the Scopes](https://basecamp.com/shapeup/3.3-chapter-12)
 
 ![کارتون فصل اسکوپ‌ها](../assets/images/shapeup/3.3-chapter-12/intro_cartoon.png)

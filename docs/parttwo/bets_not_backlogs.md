@@ -1,6 +1,6 @@
 # شرط‌بندی، نه بک‌لاگ
 
-> فصل ۷ از کتاب شیپ‌آپ  
+> فصل ۷ از کتاب شیپ‌آپ
 > منبع: [Shape Up - Bets, Not Backlogs](https://basecamp.com/shapeup/2.1-chapter-07)
 
 ![کارتون فصل شرط‌بندی، نه بک‌لاگ](../assets/images/shapeup/2.1-chapter-07/intro_cartoon.png)

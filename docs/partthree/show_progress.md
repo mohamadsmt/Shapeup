@@ -1,6 +1,6 @@
 # نشان دادن پیشرفت
 
-> فصل ۱۳ از کتاب شیپ‌آپ  
+> فصل ۱۳ از کتاب شیپ‌آپ
 > منبع: [Shape Up - Show Progress](https://basecamp.com/shapeup/3.4-chapter-13)
 
 ![کارتون فصل نشان دادن پیشرفت](../assets/images/shapeup/3.4-chapter-13/intro_cartoon.png)

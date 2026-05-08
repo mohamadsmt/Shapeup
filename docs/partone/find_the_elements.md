@@ -1,6 +1,6 @@
 # پیدا کردن عناصر
 
-> فصل ۴ از کتاب شیپ‌آپ  
+> فصل ۴ از کتاب شیپ‌آپ
 > منبع: [Shape Up - Find the Elements](https://basecamp.com/shapeup/1.3-chapter-04)
 
 ![کارتون فصل پیدا کردن عناصر](../assets/images/shapeup/1.3-chapter-04/intro_cartoon.png)

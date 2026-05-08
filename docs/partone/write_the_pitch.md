@@ -1,6 +1,6 @@
 # نوشتن پیچ
 
-> فصل ۶ از کتاب شیپ‌آپ  
+> فصل ۶ از کتاب شیپ‌آپ
 > منبع: [Shape Up - Write the Pitch](https://basecamp.com/shapeup/1.5-chapter-06)
 
 ![کارتون فصل نوشتن پیچ](../assets/images/shapeup/1.5-chapter-06/intro_cartoon.png)

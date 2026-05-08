@@ -1,6 +1,6 @@
 # میز شرط‌بندی
 
-> فصل ۸ از کتاب شیپ‌آپ  
+> فصل ۸ از کتاب شیپ‌آپ
 > منبع: [Shape Up - The Betting Table](https://basecamp.com/shapeup/2.2-chapter-08)
 
 ![کارتون فصل میز شرط‌بندی](../assets/images/shapeup/2.2-chapter-08/intro_cartoon.png)

@@ -1,6 +1,6 @@
 # یک بخش را کامل کنید
 
-> فصل ۱۱ از کتاب شیپ‌آپ  
+> فصل ۱۱ از کتاب شیپ‌آپ
 > منبع: [Shape Up - Get One Piece Done](https://basecamp.com/shapeup/3.2-chapter-11)
 
 ![کارتون فصل یک بخش را کامل کنید](../assets/images/shapeup/3.2-chapter-11/intro_cartoon.png)
