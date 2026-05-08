@@ -8,7 +8,7 @@
 - نویسنده: Ryan Singer
 - مترجم: [محمد تکلو](https://www.linkedin.com/in/mohamad-takalloo-a84764134/)
 - متن اصلی: [basecamp.com/shapeup](https://basecamp.com/shapeup)
-- سایت ترجمه: [shapeup.neveshteh.net](https://shapeup.neveshteh.net)
+- سایت ترجمه: [neveshteh.net/shapeup](https://neveshteh.net/shapeup/)
 - وضعیت: ترجمه فارسی کامل کتاب، شامل مقدمه‌ها، فصل‌های ۱ تا ۱۵، نتیجه‌گیری، پیوست‌ها، واژه‌نامه و درباره نویسنده
 
 حق نشر متن اصلی متعلق به 37signals/Basecamp است. ترجمه فارسی با مجوز صاحب ریپو برای انتشار عمومی تکمیل شده است.
@@ -41,4 +41,3 @@ mkdocs build --strict
 ```bash
 scripts/deploy-shapeup.sh
 ```
-
