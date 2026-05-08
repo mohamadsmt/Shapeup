@@ -1,15 +1,15 @@
 
 
 # Project information
-site_name: Shape Up - راهکاری برای مدیریت و طراحی محصول نرم افزاری
+site_name: Shape Up - راهکاری برای مدیریت و طراحی محصول نرم‌افزاری
 site_url: http://shapeupbook.ir
 site_author: محمد تکلو
 site_description: >-
-  راهکاری برای مدیریت و طراحی محصول نرم افزاری
+  ترجمه فارسی کتاب Shape Up، راهکاری برای مدیریت و طراحی محصول نرم‌افزاری
 
 
 # Copyright
-copyright: تمامی حقوق متعلق است به محمد تکلو
+copyright: حق نشر متن اصلی متعلق به 37signals/Basecamp است. ترجمه فارسی توسط محمد تکلو منتشر شده است.
 
 # Configuration
 theme:
@@ -43,14 +43,7 @@ theme:
 
 # Plugins
 plugins:
-  # - search:
-  #     prebuild_index: true
-  #     separator: '[\s\-\.]+'
-  #     lang:
-  #       - ar
-  #       - en
-  - minify:
-      minify_html: true
+  - search
 extra_css:
   - 'stylesheets/extra.css'
 # Customization
@@ -84,8 +77,8 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   # - pymdownx.highlight:
   #     linenums_style: pymdownx-inline
   - pymdownx.inlinehilite
@@ -104,28 +97,34 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
-# Page tree
 nav:
 - صفحه اصلی: 'index.md'
 - مقدمه:
     - مقدمه مترجم: 'abstraction/translate_abstract.md'
+    - پیش‌گفتار: 'preface/foreword.md'
+    - سپاسگزاری‌ها: 'preface/acknowledgements.md'
     - مقدمه نویسنده: 'abstraction/abstraction.md'
-    - درد بزرگ شدن: 'abstraction/growing_pains.md'
-    - چرخه‌های 6 هفته ای: 'abstraction/six_week_cycles.md'
-    - شکل دادن به کار: 'abstraction/shaping_the_work.md'
-    - تیم ها را مسئولیت پذیر کنید: 'abstraction/making_teams_responsible.md'
-    - هدف گیری ریسک : 'abstraction/targeting_risk.md'
-    - چگونه این کتاب سازمان یافت: 'abstraction/how_this_book_is_organized.md'
 - بخش اول - شیپینگ:
-  - قواعد شیپینگ: 'partone/principles_of_shaping.md'
-  - مشخص کردن چهارچوب‌ها: 'partone/set_boundaries.md'
-- بخش دوم:
-  - شرط بستن: 'parttwo/betting.md'
-- بخش سوم:
-  - ساختن: 'partthree/building.md'
-
-# Google Analytics
-google_analytics:
-  - UA-136456575-3
-  - auto
-
+    - اصول شیپینگ: 'partone/principles_of_shaping.md'
+    - تعیین مرزها: 'partone/set_boundaries.md'
+    - پیدا کردن عناصر: 'partone/find_the_elements.md'
+    - ریسک‌ها و حفره‌های خرگوش: 'partone/risks_and_rabbit_holes.md'
+    - نوشتن پیچ: 'partone/write_the_pitch.md'
+- بخش دوم - شرط‌بندی:
+    - شرط‌بندی، نه بک‌لاگ: 'parttwo/bets_not_backlogs.md'
+    - میز شرط‌بندی: 'parttwo/the_betting_table.md'
+    - شرط‌های خود را بگذارید: 'parttwo/place_your_bets.md'
+- بخش سوم - ساختن:
+    - واگذاری مسئولیت: 'partthree/hand_over_responsibility.md'
+    - یک بخش را کامل کنید: 'partthree/get_one_piece_done.md'
+    - نقشه‌برداری از اسکوپ‌ها: 'partthree/map_the_scopes.md'
+    - نشان دادن پیشرفت: 'partthree/show_progress.md'
+    - تصمیم گرفتن درباره زمان توقف: 'partthree/decide_when_to_stop.md'
+    - عبور کنید: 'partthree/move_on.md'
+    - نتیجه‌گیری: 'partthree/conclusion.md'
+- پیوست‌ها:
+    - اجرای شیپ‌آپ در بیس‌کمپ: 'appendices/implement_shapeup_in_basecamp.md'
+    - متناسب با اندازه خودتان تنظیم کنید: 'appendices/adjust_to_your_size.md'
+    - چگونه شیپ‌آپ را شروع کنیم: 'appendices/how_to_begin.md'
+    - واژه‌نامه: 'appendices/glossary.md'
+    - درباره نویسنده: 'appendices/about_author.md'
