@@ -2,7 +2,7 @@
 
 # Project information
 site_name: Shape Up - راهکاری برای مدیریت و طراحی محصول نرم‌افزاری
-site_url: http://shapeupbook.ir
+site_url: https://shapeup.neveshteh.net
 site_author: محمد تکلو
 site_description: >-
   ترجمه فارسی کتاب Shape Up، راهکاری برای مدیریت و طراحی محصول نرم‌افزاری
@@ -54,7 +54,7 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/SmtTakalloo
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/mohamad-takalloo-a84764134/
+      link: https://www.linkedin.com/in/mohamad-takalloo-a84764134/
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/takalloo.mohamad
 
